@@ -1,0 +1,9 @@
+{
+  "type": "success",
+  "content": {
+    "scan": false,
+    "login": false
+  },
+  "code": 200,
+  "errMsg": null
+}

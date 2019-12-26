@@ -1,0 +1,9 @@
+{
+  "type": "success",
+  "content": {
+    "qr": "http://www.ttplus.cn/login/scan?auth_code=9b8bea1fdfc74a70b67dbfe70247efd9",
+    "login_auth_code": "9b8bea1fdfc74a70b67dbfe70247efd9"
+  },
+  "code": 200,
+  "errMsg": null
+}

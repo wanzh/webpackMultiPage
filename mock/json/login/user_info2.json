@@ -1,0 +1,22 @@
+{
+  "type": "success",
+  "content": {
+    "is_new_vip": 1,
+    "nickname": "mhzd90",
+    "icon": "http://wx.qlogo.cn/mmopen/kWHy2lbjMbdD0TAz6Qs7Gl3LA6RqcMZLvc2PPnfsmo2MZy8yk3Ao9ia9AwnU8w1nO63ST27vAQnwIFiaRov9GxB32xoeH99gp6/0",
+    "new_vip_expire": 1886601599000,
+    "userId": 198,
+    "new_vip_id": 4,
+    "point": {
+      "grade": 8,
+      "pointmin": 2100,
+      "pointmax": 2800,
+      "userpoint": 2645,
+      "distances": 155,
+      "gold": 20173,
+      "tgold": 4075.00
+    }
+  },
+  "code": 200,
+  "errMsg": null
+}
