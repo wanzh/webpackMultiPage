@@ -62,9 +62,6 @@
     "@brightcove/videojs-flashls-source-handler": "^1.4.8",
     "@brightcove/videojs-flashls-swf": "^6.4.5",
     "core-js": "^3.1.3",
-    "jquery": "^3.4.1",
-    "video.js": "^7.5.4",
-    "videojs-contrib-hls": "^5.15.0",
-    "videojs-flash": "^2.2.0"
+    "jquery": "^3.4.1"
   }
 }
